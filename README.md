@@ -1,1 +1,1 @@
-# GitHubZama-101
+# Project Helper CLI
